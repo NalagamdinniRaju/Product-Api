@@ -1,0 +1,57 @@
+### Add Products and Calculate Total Value
+POST http://localhost:5000/api/products/add
+Content-Type: application/json
+
+[
+  {
+    "name": "Apple iPhone 14",
+    "price": 999.99,
+    "quantity": 15
+  },
+  {
+    "name": "Samsung Galaxy S23",
+    "price": 899.99,
+    "quantity": 20
+  },
+  {
+    "name": "Sony WH-1000XM5 Headphones",
+    "price": 349.99,
+    "quantity": 35
+  },
+  {
+    "name": "MacBook Pro 16-inch",
+    "price": 2499.99,
+    "quantity": 8
+  },
+  {
+    "name": "Dell XPS 13 Laptop",
+    "price": 1099.99,
+    "quantity": 12
+  },
+  {
+    "name": "Logitech MX Master 3 Mouse",
+    "price": 99.99,
+    "quantity": 50
+  },
+  {
+    "name": "Apple Watch Series 9",
+    "price": 429.99,
+    "quantity": 25
+  },
+  {
+    "name": "Amazon Echo Dot (5th Gen)",
+    "price": 49.99,
+    "quantity": 100
+  },
+  {
+    "name": "Google Nest Thermostat",
+    "price": 129.99,
+    "quantity": 30
+  },
+  {
+    "name": "PlayStation 5 Console",
+    "price": 499.99,
+    "quantity": 18
+  }
+]
+
