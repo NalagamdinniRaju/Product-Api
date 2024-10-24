@@ -121,7 +121,3 @@ Here's an example request and response in Postman:
 ![alt text](/public/image.png)
 
 ---
-### Notes:
-
-- **Live Demo Section**: Update the link `https://your-deployed-link.render.com` with your actual Render deployment URL.
-
